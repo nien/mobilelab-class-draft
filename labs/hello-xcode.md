@@ -1,8 +1,4 @@
 # Hello Xcode
 
-## Hello Xcode
-
-## 
-
 
 
