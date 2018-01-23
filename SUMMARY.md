@@ -2,7 +2,5 @@
 
 * [Introduction](README.md)
 * [Labs](labs.md)
-  * Hello Xcode
-
-
+  * [Hello Xcode](labs/hello-xcode.md)
 
